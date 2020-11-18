@@ -77,3 +77,4 @@ Students:
 |AH|Zorak|Zorak|
 | EW |ewarnock    |ewarnock
 | AH |ahill167 | ahill167 |
+| TH | testuser | testuser |
